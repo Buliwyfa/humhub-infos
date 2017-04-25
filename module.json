@@ -1,0 +1,11 @@
+
+{
+  "id": "infos",
+  "name": "Information panel",
+  "description": "Show some informations.",
+  "keywords": ["infos", "news", "informations"],
+  "version": "1.0.0",
+  "humhub": {
+    "minVersion": "1.1"
+  }
+}
