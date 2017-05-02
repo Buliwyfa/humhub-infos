@@ -8,7 +8,7 @@ The message can be set by all admins in html syntax language.
 * v 0.0.1
     - Settings
 
-__Author:__ Matthieu Schmit
+__Author:__ Matthieu Schmit  
 __Author website:__ ***.be
 
 ## TODO
